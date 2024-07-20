@@ -1,8 +1,6 @@
-# Responsive human-computer interaction model based
-# on recognition of facial landmarks using machine
-# learning algorithms
+# Responsive human-computer interaction model based on recognition of facial landmarks using machine learning algorithms
 
-Abstract
+## Abstract
 This paper is addressed on the idea of building up a model to control computer systems
 by utilizing facial landmarks like eyes, nose and head gestures. The face recognition
 
@@ -26,4 +24,4 @@ parameter. Accordingly classification report has generated for both estimation a
 analysed best results for β parameter in terms of accuracy with 98.33%, precision with
 100%, recall with 98.33% and F1 score with 99.16% under good lighting conditions.
 
-#link: https://link.springer.com/article/10.1007/s11042-022-12775-6 
+## link: https://link.springer.com/article/10.1007/s11042-022-12775-6 
